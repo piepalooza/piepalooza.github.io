@@ -184,30 +184,30 @@ $(document).ready(function () {
 
 
     /************** Video Dividers Scripts **************/
-
-    // Set the videos height at the wrappers width so it takes up the whole space of the divider
-
-    $('.video-wrapper').each(function () {
-        var height = $(this).width();
-        $(this).css('height', height);
-
-        if ($(this).width() < $('.row').width()) {
-            $(this).css('width', height * 2);
-        }
-
-        if ($(this).width() > $('.row').width()) {
-            $(this).css('width', height * 1.5);
-        }
-    });
-
-    // and do this on resize!
-
-    $(window).resize(function () {
-        $('.video-wrapper').each(function () {
-            var height = $(this).width();
-            $(this).css('height', height);
-        });
-    });
+    //
+    //// Set the videos height at the wrappers width so it takes up the whole space of the divider
+    //
+    //$('.video-wrapper').each(function () {
+    //    var height = $(this).width();
+    //    $(this).css('height', height);
+    //
+    //    if ($(this).width() < $('.row').width()) {
+    //        $(this).css('width', height * 2);
+    //    }
+    //
+    //    if ($(this).width() > $('.row').width()) {
+    //        $(this).css('width', height * 1.5);
+    //    }
+    //});
+    //
+    //// and do this on resize!
+    //
+    //$(window).resize(function () {
+    //    $('.video-wrapper').each(function () {
+    //        var height = $(this).width();
+    //        $(this).css('height', height);
+    //    });
+    //});
 
 
     /************** Parallax Scripts **************/
@@ -265,26 +265,26 @@ $(document).ready(function () {
 
     /************** OpenTable form Scripts **************/
 
-    $('#OT_defList dt').each(function () {
-        $(this).html('');
-    });
-
-    $('.open-table-button').click(function () {
-        $('#ism').submit();
-        return false;
-    });
-
-    $('.open-table-container').each(function () {
-        var restaurantID = $(this).attr('data-restaurant-id');
-        $(this).find('.OT_hidden[name="RestaurantID"]').attr('value', restaurantID);
-    });
-
-    $('.datepicker').datepicker({
-        onSelect: function (selectedDate) {
-            // custom callback logic here
-            $(this).attr('value', selectedDate);
-        }
-    });
+    //$('#OT_defList dt').each(function () {
+    //    $(this).html('');
+    //});
+    //
+    //$('.open-table-button').click(function () {
+    //    $('#ism').submit();
+    //    return false;
+    //});
+    //
+    //$('.open-table-container').each(function () {
+    //    var restaurantID = $(this).attr('data-restaurant-id');
+    //    $(this).find('.OT_hidden[name="RestaurantID"]').attr('value', restaurantID);
+    //});
+    //
+    //$('.datepicker').datepicker({
+    //    onSelect: function (selectedDate) {
+    //        // custom callback logic here
+    //        $(this).attr('value', selectedDate);
+    //    }
+    //});
 
 
     /************** Map Scripts **************/
@@ -299,84 +299,103 @@ $(document).ready(function () {
 
 
     /************** Instagram Scripts **************/
-
-    jQuery.fn.spectragram.accessData = {
-        accessToken: '1406933036.fedaafa.feec3d50f5194ce5b705a1f11a107e0b',
-        clientID: 'fedaafacf224447e8aef74872d3820a1'
-    };
-
-    $('.instafeed').each(function () {
-        $(this).children('ul').spectragram('getUserFeed', {
-            query: $(this).attr('data-user-name')
-        });
-
-    });
+    //
+    //jQuery.fn.spectragram.accessData = {
+    //    accessToken: '1406933036.fedaafa.feec3d50f5194ce5b705a1f11a107e0b',
+    //    clientID: 'fedaafacf224447e8aef74872d3820a1'
+    //};
+    //
+    //$('.instafeed').each(function () {
+    //    $(this).children('ul').spectragram('getUserFeed', {
+    //        query: $(this).attr('data-user-name')
+    //    });
+    //
+    //});
 
     /************** Video Dividers Scripts **************/
 
     // Set the videos height at the wrappers width so it takes up the whole space of the divider
+    //
+    //$('.video-wrapper').each(function () {
+    //    var height = $(this).width();
+    //    $(this).css('height', height);
+    //
+    //    if ($(this).width() < $('.row').width()) {
+    //        $(this).css('width', height * 2);
+    //    }
+    //
+    //    if ($(this).width() > $('.row').width()) {
+    //        $(this).css('width', height * 1.5);
+    //    }
+    //});
+    //
+    //// and do this on resize!
+    //
+    //$(window).resize(function () {
+    //    $('.video-wrapper').each(function () {
+    //        var height = $(this).width();
+    //        $(this).css('height', height);
+    //    });
+    //});
 
-    $('.video-wrapper').each(function () {
-        var height = $(this).width();
-        $(this).css('height', height);
 
-        if ($(this).width() < $('.row').width()) {
-            $(this).css('width', height * 2);
+    ///************** Contact Form Scripts **************/
+    //
+    //jQuery('.form-contact .button').click(function () {
+    //
+    //    event.preventDefault(); // cancel default behavior
+    //
+    //    var name = jQuery('#form-name').val();
+    //    var email = jQuery('#form-email').val();
+    //    var message = jQuery('#form-msg').val();
+    //    var error = 0;
+    //
+    //    if (name === '' || email === '' || message === '') {
+    //        error = 1;
+    //        jQuery('#details-error').fadeIn(200);
+    //    } else {
+    //        jQuery('#details-error').fadeOut(200);
+    //    }
+    //
+    //    if (!(/(.+)@(.+){2,}\.(.+){2,}/.test(email))) {
+    //        jQuery('#details-error').fadeIn(200);
+    //        error = 1;
+    //    }
+    //
+    //    var dataString = 'name=' + name + '&email=' + email + '&text=' + message;
+    //
+    //    if (error === 0) {
+    //        jQuery.ajax({
+    //            type: "POST",
+    //            url: "mail.php",
+    //            data: dataString,
+    //            success: function () {
+    //                jQuery('#details-error').fadeOut(1000);
+    //                jQuery('#form-sent').fadeIn(1000);
+    //            }
+    //        });
+    //        return false;
+    //    }
+    //
+    //});
+
+    $('#video').YTPlayer({
+        videoId: 'pUQ1CGJF5sM',
+        pauseOnScroll: false,
+        fitToBackground: true,
+        repeat:true,
+        playerVars: {
+            modestbranding: 0,
+            autoplay: 1,
+            controls: 0,
+            showinfo: 0,
+            wmode: 'transparent',
+            branding: 0,
+            disablekb: 1,
+            rel: 0,
+            autohide: 0,
+            origin: window.location.origin
         }
-
-        if ($(this).width() > $('.row').width()) {
-            $(this).css('width', height * 1.5);
-        }
-    });
-
-    // and do this on resize!
-
-    $(window).resize(function () {
-        $('.video-wrapper').each(function () {
-            var height = $(this).width();
-            $(this).css('height', height);
-        });
-    });
-
-
-    /************** Contact Form Scripts **************/
-
-    jQuery('.form-contact .button').click(function () {
-
-        event.preventDefault(); // cancel default behavior
-
-        var name = jQuery('#form-name').val();
-        var email = jQuery('#form-email').val();
-        var message = jQuery('#form-msg').val();
-        var error = 0;
-
-        if (name === '' || email === '' || message === '') {
-            error = 1;
-            jQuery('#details-error').fadeIn(200);
-        } else {
-            jQuery('#details-error').fadeOut(200);
-        }
-
-        if (!(/(.+)@(.+){2,}\.(.+){2,}/.test(email))) {
-            jQuery('#details-error').fadeIn(200);
-            error = 1;
-        }
-
-        var dataString = 'name=' + name + '&email=' + email + '&text=' + message;
-
-        if (error === 0) {
-            jQuery.ajax({
-                type: "POST",
-                url: "mail.php",
-                data: dataString,
-                success: function () {
-                    jQuery('#details-error').fadeOut(1000);
-                    jQuery('#form-sent').fadeIn(1000);
-                }
-            });
-            return false;
-        }
-
     });
 
 });
