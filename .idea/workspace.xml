@@ -2,33 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6fe6e0d-a6d2-41a2-9804-2929990d89bf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.vimelar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.youtubebackground.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/about-pic.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/batch/pie-apple.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hero2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hero3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hero4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/side1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/side2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/signature.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/thumb1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/thumb2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/thumb3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/thumb4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/video/video.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/video/video.ogv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/video/video.webm" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/CNAME2" afterPath="$PROJECT_DIR$/CNAME" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/pie/thumb/pie-apple.jpg" afterPath="$PROJECT_DIR$/img/pie/thumb/pie-apple.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/pie/thumb/pie-bananacream.jpg" afterPath="$PROJECT_DIR$/img/pie/thumb/pie-bananacream.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/pie/thumb/pie-blueberry.jpg" afterPath="$PROJECT_DIR$/img/pie/thumb/pie-blueberry.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/scripts.js" afterPath="$PROJECT_DIR$/js/scripts.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="public.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -53,8 +28,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.0344332">
-              <caret line="234" column="80" selection-start-line="234" selection-start-column="80" selection-end-line="234" selection-end-column="80" />
+            <state vertical-scroll-proportion="0.93113345">
+              <caret line="701" column="9" selection-start-line="701" selection-start-column="9" selection-end-line="701" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -63,8 +38,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.62963">
-              <caret line="423" column="36" selection-start-line="423" selection-start-column="36" selection-end-line="423" selection-end-column="36" />
+            <state vertical-scroll-proportion="-13.62963">
+              <caret line="374" column="1" selection-start-line="374" selection-start-column="1" selection-end-line="374" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -449,16 +424,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.62963">
-          <caret line="423" column="36" selection-start-line="423" selection-start-column="36" selection-end-line="423" selection-end-column="36" />
+        <state vertical-scroll-proportion="-13.62963">
+          <caret line="374" column="1" selection-start-line="374" selection-start-column="1" selection-end-line="374" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.0344332">
-          <caret line="234" column="80" selection-start-line="234" selection-start-column="80" selection-end-line="234" selection-end-column="80" />
+        <state vertical-scroll-proportion="0.93113345">
+          <caret line="701" column="9" selection-start-line="701" selection-start-column="9" selection-end-line="701" selection-end-column="9" />
           <folding />
         </state>
       </provider>
