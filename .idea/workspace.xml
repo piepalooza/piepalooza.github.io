@@ -2,6 +2,58 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6fe6e0d-a6d2-41a2-9804-2929990d89bf" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pie/pie-apple.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pie/pie-bananacream.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pie/pie-blueberry.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pie/pie-cherry.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pie/pie-choclayer.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pie/pie-coconut.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pie/pie-creamypear.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pie/pie-deathbychoc.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pie/pie-fourberry.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pie/pie-frenchsilk.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pie/pie-grasshopper.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pie/pie-keylime.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pie/pie-lemonicebox.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pie/pie-lemonm.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pie/pie-nutella.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pie/pie-oreo.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pie/pie-peach.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pie/pie-peanutbutter.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pie/pie-pecan.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pie/pie-pecanchoc.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pie/pie-pistacio.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pie/pie-pumpkin.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pie/pie-pumpkinlust.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pie/pie-raspberry.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pie/pie-strawberry.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pie/pie-strawberryrubarb.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pie/thumb/pie-apple.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pie/thumb/pie-bananacream.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pie/thumb/pie-blueberry.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pie/thumb/pie-cherry.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pie/thumb/pie-choclayer.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pie/thumb/pie-coconut.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pie/thumb/pie-creamypear.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pie/thumb/pie-deathbychoc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pie/thumb/pie-fourberry.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pie/thumb/pie-frenchsilk.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pie/thumb/pie-grasshopper.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pie/thumb/pie-keylime.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pie/thumb/pie-lemonicebox.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pie/thumb/pie-lemonm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pie/thumb/pie-nutella.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pie/thumb/pie-oreo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pie/thumb/pie-peach.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pie/thumb/pie-peanutbutter.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pie/thumb/pie-pecan.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pie/thumb/pie-pecanchoc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pie/thumb/pie-pistacio.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pie/thumb/pie-pumpkin.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pie/thumb/pie-pumpkinlust.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pie/thumb/pie-raspberry.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pie/thumb/pie-strawberry.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pie/thumb/pie-strawberryrubarb.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="public.iws" />
@@ -27,8 +79,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3577348">
-              <caret line="48" column="66" selection-start-line="48" selection-start-column="66" selection-end-line="48" selection-end-column="66" />
+            <state vertical-scroll-proportion="0.2690583">
+              <caret line="192" column="29" selection-start-line="192" selection-start-column="29" selection-end-line="192" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -190,24 +242,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pie" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -449,8 +483,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3577348">
-          <caret line="48" column="66" selection-start-line="48" selection-start-column="66" selection-end-line="48" selection-end-column="66" />
+        <state vertical-scroll-proportion="0.2690583">
+          <caret line="192" column="29" selection-start-line="192" selection-start-column="29" selection-end-line="192" selection-end-column="29" />
           <folding />
         </state>
       </provider>
