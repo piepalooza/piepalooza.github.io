@@ -382,3 +382,8 @@ footer{ background: #333; padding: 88px 0px; }
     text-align: center;
     top:140px;
 }
+
+.hero-slider .slides li a.button {
+    color: #444;
+    background: #fff;
+}
