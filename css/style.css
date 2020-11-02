@@ -387,3 +387,11 @@ footer{ background: #333; padding: 88px 0px; }
     color: #444;
     background: #fff;
 }
+.hero-slider .slide-content {
+	padding-top: 40px;
+}
+.hero-slider .slider-content h1 {
+	background: url(img/logo.svg) 50% 50% no-repeat;
+    text-indent: -9999px;
+    height: 500px;
+}
