@@ -395,3 +395,7 @@ footer{ background: #333; padding: 88px 0px; }
     text-indent: -9999px;
     height: 400px;
 }
+.shortlist {
+    column-count: 2;
+    column-gap: 40px;
+}
